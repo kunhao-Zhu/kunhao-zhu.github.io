@@ -19,14 +19,14 @@
       institution: Nanjing University
       year: 2023.09 – 2026.06
       description:
-        - Relevant Courses: Natural Language Processing; Informetrics Studies; Network Analysis; Information Behavior; Building Information Resources.
-        - Thesis: From Ancient Chorography to Semantic Networks: Spatio-Temporal Knowledge Graph Construction and Visualization of Ancient Nanjing Driven by Lefebvre’s Spatial Triad.
+        - "Relevant Courses: Natural Language Processing; Informetrics Studies; Network Analysis; Information Behavior; Building Information Resources."
+        - "Thesis: From Ancient Chorography to Semantic Networks: Spatio-Temporal Knowledge Graph Construction and Visualization of Ancient Nanjing Driven by Lefebvre’s Spatial Triad."
     - title: B.A. in Library Science (GPA 3.79/4.0; Rank 2/16)
       institution: Zhengzhou University
       year: 2019.09 – 2023.06
       description:
-        - Relevant Courses: Information Organization; Information Description; Information Retrieval; Library Information Resources Construction; Library Management and Services.
-        - Thesis: Research on Constructing a Semantic Ontology Model for the Longmen Grottoes under Digital Narrative.
+        - "Relevant Courses: Information Organization; Information Description; Information Retrieval; Library Information Resources Construction; Library Management and Services."
+        - "Thesis: Research on Constructing a Semantic Ontology Model for the Longmen Grottoes under Digital Narrative."
 
 - title: Experience
   type: time_table
@@ -35,38 +35,38 @@
       institution: Duke Kunshan University Library
       year: 2023.06 – 2023.09
       description:
-        - Managed relocation from old to new facility: verified shelf placements via RFID, updated location data, and performed systematic shelf-reading.
+        - "Managed relocation from old to new facility: verified shelf placements via RFID, updated location data, and performed systematic shelf-reading."
         - Relocated multimedia, journals, and newspapers; tested new equipment functionality.
-        - Processed daily book requests in Aleph; notified patrons and distributed course reserves.
+        - "Processed daily book requests in Aleph; notified patrons and distributed course reserves."
         - Provided bilingual services at the circulation desk for student/faculty inquiries.
     - title: Library Cataloging Intern
       institution: Duke Kunshan University Library
       year: 2021.07 – 2021.09
       description:
-        - Executed MARC21 cataloging for 100+ daily acquisitions using Aleph/OCLC; enhanced records through field validation.
+        - "Executed MARC21 cataloging for 100+ daily acquisitions using Aleph/OCLC; enhanced records through field validation."
         - Scanned restricted materials for patron delivery per copyright compliance.
-        - Supported library orientation and tours with resource preparation and promotional video production.
+        - "Supported library orientation and tours with resource preparation and promotional video production."
     - title: Library Student Assistant
       institution: Zhengzhou University Library
       year: 2020.09 – 2020.12
       description:
-        - Trained student workers in CLC fundamentals (classification principles, call number sequencing) and shelving.
-        - Assigned daily book processing tasks and conducted shelf-reading to identify misfilings; maintained stack organization for returns.
+        - "Trained student workers in CLC fundamentals (classification principles, call number sequencing) and shelving."
+        - "Assigned daily book processing tasks and conducted shelf-reading to identify misfilings; maintained stack organization for returns."
     - title: Class Monitor (Other Experience)
       institution: Library Science Class of 2023, Zhengzhou University
       year: 2019 – 2023
       description:
-        - Organized community library project: basic cataloging, shelving, and Excel-based borrowing record management.
-        - Co-established children’s library in rural area: site selection, cataloging, and system setup for 2,000+ donated books.
+        - "Organized community library project: basic cataloging, shelving, and Excel-based borrowing record management."
+        - "Co-established children’s library in rural area: site selection, cataloging, and system setup for 2,000+ donated books."
 
 - title: Skills
   type: nested_list
   contents:
     - title: Library Skills
       items:
-        - Systems: Aleph.
-        - Cataloging: MARC21, RDA/AACR2.
-        - Maintenance: Shelf-Reading (LC/DDC/CLC), Shelving, Shifting, Straightening.
+        - "Systems: Aleph."
+        - "Cataloging: MARC21, RDA/AACR2."
+        - "Maintenance: Shelf-Reading (LC/DDC/CLC), Shelving, Shifting, Straightening."
     - title: Languages
       items:
         - English (Fluent)
@@ -76,7 +76,7 @@
         - Python, Stata, XML, LaTeX.
     - title: Tools
       items:
-        - MS Office, EndNote, Zotero.
+        - "MS Office, EndNote, Zotero."
 
 - title: Honors and Awards
   type: time_table
@@ -106,10 +106,10 @@
 - title: References
   type: list
   contents:
-    - <u>Prof. Shiyan Ou</u> — Master’s thesis advisor — oushiyan@nju.edu.cn
-    - <u>Ying Zhu</u> — Internship mentor — ying.zhu814@dukekunshan.edu.cn
+    - "<u>Prof. Shiyan Ou</u> — Master’s thesis advisor — oushiyan@nju.edu.cn"
+    - "<u>Ying Zhu</u> — Internship mentor — ying.zhu814@dukekunshan.edu.cn"
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Interests:</u> Digital humanities, knowledge organization, spatial-narrative modeling.
+    - "<u>Interests:</u> Digital humanities, knowledge organization, spatial-narrative modeling."
