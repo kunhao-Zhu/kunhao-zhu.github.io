@@ -622,12 +622,9 @@ third_party_libraries:
     version: "2.1.8"
 
 # -----------------------------------------------------------------------------
-# Get external JSON data
+# External JSON data (disabled)
 # -----------------------------------------------------------------------------
-
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+## Removed jekyll_get_json resume loader to use _data/cv.yml for the CV page.
 
 jsonresume:
   - basics
