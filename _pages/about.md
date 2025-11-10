@@ -12,6 +12,7 @@ profile:
     <p>Email: kh.zhu@email.nju.edu.cn</p>
     <p>ORCID: 0009-0007-2679-8486</p>
     <p>Address: No.163 Xianlin Avenue, Qixia District, Nanjing, China</p>
+    <p>Interests: Digital humanities, knowledge organization, spatial–narrative modeling with knowledge graphs.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
